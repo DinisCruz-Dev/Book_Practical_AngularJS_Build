@@ -1,8 +1,6 @@
 {frontmatter}
 
-1.Leanpub-book-originally-based-on-Blog-posts.md
 2.Change-log.md
-4.AngularJS-resources.md
 
 {mainmatter}
 
