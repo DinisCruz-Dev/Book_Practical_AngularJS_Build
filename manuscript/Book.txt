@@ -17,10 +17,10 @@ x.How-this-book-is-built.md
 x.Maturity-Models-project.md
 x.Maturity-models-source-code.md
 x.My-Application-Security-Background.md
-x.Price-of-this-book.md
 x.Start-with-tests.md
 x.The-power-of-simple.md
 x.I-realy-like-angular-1x
+x.Price-of-this-book
 
 
 2.Maturity-models
@@ -43,9 +43,9 @@ x.Tests-UI
 
 3.Case-study-new-api-and-view
 
-0.Case-study-new-api-and-view.md
-1.Adding-an-backend-service.md
 2.Adding-an-Controller.md
+0.Case-study-new-api-and-view
+1.Adding-an-backend-service
 
 
 4.Angular-v1
