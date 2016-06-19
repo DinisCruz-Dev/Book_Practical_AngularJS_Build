@@ -173,10 +173,10 @@ x.Other-vulns-that-need-tests.md
 x.Pattern-dont-care-about-security.md
 x.Pattern-dont-use-jquery.md
 x.Pattern-dont-use-strings.md
-x.Pattern-known-attack-surface.md
 x.Pattern-validate-all-input.md
 x.Pollution-not-technical-debt.md
 x.Vulnerabilities-by-design.md
+x.Pattern-known-attack-surface.md
 
 
 9.GitHub.md
