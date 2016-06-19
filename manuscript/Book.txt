@@ -25,12 +25,6 @@ x.The-power-of-simple.md
 x.I-realy-like-angular-1x
 
 
-10.Future
-
-0.Future.md
-x.SAST-Analysis.md
-
-
 2.Maturity-models
 
 0.App-maturity-models.md
@@ -51,7 +45,6 @@ x.UI-Server-side.md
 
 3.Case-study-new-api-and-view
 
-0.Adding-api-and-view.md
 0.Case-study-new-api-and-view.md
 1.Adding-an-backend-service.md
 2.Adding-an-Controller.md
@@ -59,7 +52,7 @@ x.UI-Server-side.md
 
 4.Angular-v1
 
-0.Angular-v1
+0.Angular-v1.md
 x.$digest.md
 x.$http.md
 x.$injector.md
@@ -203,4 +196,10 @@ x.Todos-Checklists.md
 x.Version-control.md
 x.Webhooks.md
 x.Wiki.md
+
+
+9.z.Future
+
+0.Future.md
+x.SAST-Analysis.md
 
