@@ -159,7 +159,7 @@ x.Controlling-dependencies.md
 x.A1-injection.md
 x.A11-denial-of-service.md
 x.A2-broken-authentication.md
-x.A3-cross-site-scripting copy.md
+x.A3-cross-site-scripting.md
 x.Accepting-risk.md
 x.Attack-surface-changes-breaks-tests.md
 x.Create-tools-to-Brute-Force-App.md
