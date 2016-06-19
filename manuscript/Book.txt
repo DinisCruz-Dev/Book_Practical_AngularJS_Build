@@ -1,9 +1,13 @@
+--------------------------
 0.Frontmatter.md
+--------------------------
 0.Leanpub-book-originally-based-on-Blog-posts.md
 0.Change-log.md
 0.AngularJS-resources.md
 
+--------------------------
 0.Part-I.md
+--------------------------
 0.Why-how-what.md
 0.App-maturity-models.md
 0.Angular-v1.md
@@ -16,7 +20,9 @@
 0.Technologies-used.md
 0.Testing.md
 
+--------------------------
 0.Part-II.md
+--------------------------
 0.Introduction.md
 0.Using-AngularJs.md
 0.Karma-JS.md
