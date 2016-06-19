@@ -1,9 +1,10 @@
 --------------------------
 0.Frontmatter.md
 --------------------------
-0.Leanpub-book-originally-based-on-Blog-posts.md
-0.Change-log.md
-0.AngularJS-resources.md
+0.Frontmatter.md
+1.Leanpub-book-originally-based-on-Blog-posts.md
+2.Change-log.md
+4.AngularJS-resources.md
 
 --------------------------
 0.Part-I.md
