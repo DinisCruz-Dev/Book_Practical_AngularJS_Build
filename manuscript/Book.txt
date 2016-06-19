@@ -79,11 +79,11 @@ x.Why-angular-1x.md
 5.Technologies-used.md
 
 0.Technologies-used.md
-x.Agile-using-Kandan-WIP.md
-x.Bower.md
-x.CoffeeScript.md
-x.Css.md
-x.D3.md
+Agile-using-Kandan-WIP.md
+Bower.md
+CoffeeScript.md
+Css.md
+D3.md
 x.Digital-Ocean.md
 x.Docker-Hub.md
 x.Docker.md
