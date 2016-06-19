@@ -25,9 +25,10 @@ x.The-power-of-simple.md
 x.I-realy-like-angular-1x
 
 
-2.App-maturity-models
+2.Maturity-models
 
-1.App-maturity-models.md
+0.App-maturity-models.md
+1.Maturity-models-features.md
 x.Code-QA.md
 x.Code-UI-Angular.md
 x.Code-Web-Services-API.md
@@ -42,8 +43,17 @@ x.UI-Server-side.md
 2.App-structure
 
 
+3.Case-study-new-api-and-view
+
+0.Adding-api-and-view.md
+0.Case-study-new-api-and-view.md
+1.Adding-an-backend-service.md
+2.Adding-an-Controller.md
+
+
 x.Angular-v1
 
+0.Angular-v1
 x.$digest.md
 x.$http.md
 x.$injector.md
@@ -67,18 +77,6 @@ x.Template-urls.md
 x.Testing-angular.md
 x.Two-way-model-binding.md
 x.Why-angular-1x.md
-
-
-x.App-Maturity-Models
-
-1.App-maturity-models.md
-
-
-x.Case-study-new-api-and-view
-
-0.Adding-api-and-view.md
-1.Adding-an-backend-service.md
-2.Adding-an-Controller.md
 
 
 x.Development
