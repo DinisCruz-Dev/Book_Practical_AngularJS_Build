@@ -51,7 +51,7 @@ x.UI-Server-side.md
 2.Adding-an-Controller.md
 
 
-x.Angular-v1
+4.Angular-v1
 
 0.Angular-v1
 x.$digest.md
@@ -79,64 +79,9 @@ x.Two-way-model-binding.md
 x.Why-angular-1x.md
 
 
-x.Development
+5.Technologies-used
 
-x.Code-formating.md
-x.Continuous-Deployment.md
-x.Fluent_asserts.md
-x.Issue-Creation-Strategy.md
-x.Risk-Acceptance-Strategy.md
-
-
-x.Future
-
-x.SAST-Analysis.md
-
-
-x.GitHub
-
-0.GitHub.md
-x.Commits.md
-x.Images-copy-n-paste.md
-x.Issues-labels.md
-x.Issues.md
-x.Offline-coding.md
-x.Online-editor.md
-x.Pull-requests.md
-x.Pulse-and-Graphs.md
-x.Releases.md
-x.Todos-Checklists.md
-x.Version-control.md
-x.Webhooks.md
-x.Wiki.md
-
-
-x.Security-tests
-
-x.A1-injection.md
-x.A11-denial-of-service.md
-x.A2-broken-authentication.md
-x.A3-cross-site-scripting copy.md
-x.Accepting-risk.md
-x.Attack-surface-changes-breaks-tests.md
-x.Create-tools-to-Brute-Force-App.md
-x.Deadlines-create-Polution.md
-x.How-to-pentest-this-app.md
-x.Http-Headers.md
-x.No-security-by-obscurity.md
-x.OWASP-top-10.md
-x.Other-vulns-that-need-tests.md
-x.Pattern-dont-care-about-security.md
-x.Pattern-dont-use-jquery.md
-x.Pattern-dont-use-strings.md
-x.Pattern-known-attack-surface.md
-x.Pattern-validate-all-input.md
-x.Pollution-not-technical-debt.md
-x.Vulnerabilities-by-design.md
-
-
-x.Technologies-used
-
+0.Technologies-used.md
 x.Agile-using-Kandan-WIP.md
 x.Bower.md
 x.CoffeeScript.md
@@ -175,8 +120,19 @@ x.Docker-Cloud
 x.Travis
 
 
-x.Testing
+6.Development
 
+0.Development.md
+x.Code-formating.md
+x.Continuous-Deployment.md
+x.Fluent_asserts.md
+x.Issue-Creation-Strategy.md
+x.Risk-Acceptance-Strategy.md
+
+
+7.Testing
+
+0.Testing.md
 x.5000pc-code-coverage.md
 x.All-tests-pass.md
 x.App-actions-via-Chrome-Bookmarks.md
@@ -198,4 +154,52 @@ x.Security-vulns-are-features.md
 x.WebStorm-setup.md
 x.Write-tests-for-all-bugs.md
 x.Controlling-dependencies
+
+
+8.Security-tests
+
+0.Security-tests.md
+x.A1-injection.md
+x.A11-denial-of-service.md
+x.A2-broken-authentication.md
+x.A3-cross-site-scripting copy.md
+x.Accepting-risk.md
+x.Attack-surface-changes-breaks-tests.md
+x.Create-tools-to-Brute-Force-App.md
+x.Deadlines-create-Polution.md
+x.How-to-pentest-this-app.md
+x.Http-Headers.md
+x.No-security-by-obscurity.md
+x.OWASP-top-10.md
+x.Other-vulns-that-need-tests.md
+x.Pattern-dont-care-about-security.md
+x.Pattern-dont-use-jquery.md
+x.Pattern-dont-use-strings.md
+x.Pattern-known-attack-surface.md
+x.Pattern-validate-all-input.md
+x.Pollution-not-technical-debt.md
+x.Vulnerabilities-by-design.md
+
+
+x.Future
+
+x.SAST-Analysis.md
+
+
+x.GitHub
+
+0.GitHub.md
+x.Commits.md
+x.Images-copy-n-paste.md
+x.Issues-labels.md
+x.Issues.md
+x.Offline-coding.md
+x.Online-editor.md
+x.Pull-requests.md
+x.Pulse-and-Graphs.md
+x.Releases.md
+x.Todos-Checklists.md
+x.Version-control.md
+x.Webhooks.md
+x.Wiki.md
 
