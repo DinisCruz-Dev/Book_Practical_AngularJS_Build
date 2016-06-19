@@ -25,6 +25,12 @@ x.The-power-of-simple.md
 x.I-realy-like-angular-1x
 
 
+10.Future
+
+0.Future.md
+x.SAST-Analysis.md
+
+
 2.Maturity-models
 
 0.App-maturity-models.md
@@ -181,12 +187,7 @@ x.Pollution-not-technical-debt.md
 x.Vulnerabilities-by-design.md
 
 
-x.Future
-
-x.SAST-Analysis.md
-
-
-x.GitHub
+9.GitHub
 
 0.GitHub.md
 x.Commits.md
