@@ -156,6 +156,7 @@ x.Controlling-dependencies.md
 8.Security-tests.md
 
 0.Security-tests.md
+AngularJs-security.md
 x.A1-injection.md
 x.A11-denial-of-service.md
 x.A2-broken-authentication.md
