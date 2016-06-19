@@ -145,17 +145,17 @@ x.Print-tests-to-review.md
 x.Real-code-is-simple.md
 x.Real-time-code-coverage.md
 x.Real-time-test-Execution.md
-x.Real-world-angular-bugs.md
 x.Run-tests-on-all-commits-of-all-branches.md
 x.Security-vulns-are-features.md
 x.WebStorm-setup.md
 x.Write-tests-for-all-bugs.md
 x.Controlling-dependencies.md
+x.Real-world-angular-bugs.md
 
 
-8.Security-tests.md
+8.Security.md
 
-0.Security-tests.md
+0.Security.md
 AngularJs-security.md
 x.A1-injection.md
 x.A11-denial-of-service.md
