@@ -28,19 +28,19 @@ x.I-realy-like-angular-1x
 2.Maturity-models
 
 0.App-maturity-models.md
-1.Maturity-models-features.md
-x.Code-QA.md
-x.Code-UI-Angular.md
-x.Code-Web-Services-API.md
 x.Data-repositories.md
 x.Tests-API.md
 x.Tests-QA-Browser.md
 x.Tests-QA-Http.md
 x.Tests-QA-JsDom.md
-x.Tests-QA.md
-x.Tests-UI.md
 x.UI-Server-side.md
+1.Maturity-models-features
 2.App-structure
+x.Code-QA
+x.Code-UI-Angular
+x.Code-Web-Services-API
+x.Tests-QA
+x.Tests-UI
 
 
 3.Case-study-new-api-and-view
