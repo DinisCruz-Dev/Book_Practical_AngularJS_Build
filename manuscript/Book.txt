@@ -10,7 +10,7 @@
 --------------------------
 
 
-1.Why-how-what
+1.Why-how-what.md
 
 0.Why-how-what.md
 x.How-this-book-is-built.md
@@ -19,11 +19,11 @@ x.Maturity-models-source-code.md
 x.My-Application-Security-Background.md
 x.Start-with-tests.md
 x.The-power-of-simple.md
-x.I-realy-like-angular-1x
-x.Price-of-this-book
+x.I-realy-like-angular-1x.md
+x.Price-of-this-book.md
 
 
-2.Maturity-models
+2.Maturity-models.md
 
 0.App-maturity-models.md
 x.Data-repositories.md
@@ -32,23 +32,23 @@ x.Tests-QA-Browser.md
 x.Tests-QA-Http.md
 x.Tests-QA-JsDom.md
 x.UI-Server-side.md
-1.Maturity-models-features
-2.App-structure
-x.Code-QA
-x.Code-UI-Angular
-x.Code-Web-Services-API
-x.Tests-QA
-x.Tests-UI
+1.Maturity-models-features.md
+2.App-structure.md
+x.Code-QA.md
+x.Code-UI-Angular.md
+x.Code-Web-Services-API.md
+x.Tests-QA.md
+x.Tests-UI.md
 
 
-3.Case-study-new-api-and-view
+3.Case-study-new-api-and-view.md
 
 2.Adding-an-Controller.md
-0.Case-study-new-api-and-view
-1.Adding-an-backend-service
+0.Case-study-new-api-and-view.md
+1.Adding-an-backend-service.md
 
 
-4.Angular-v1
+4.Angular-v1.md
 
 0.Angular-v1.md
 x.$digest.md
@@ -76,7 +76,7 @@ x.Two-way-model-binding.md
 x.Why-angular-1x.md
 
 
-5.Technologies-used
+5.Technologies-used.md
 
 0.Technologies-used.md
 x.Agile-using-Kandan-WIP.md
@@ -113,11 +113,11 @@ x.PhantomJS.md
 x.Pug.md
 x.WallabyJs.md
 x.WebStorm.md
-x.Docker-Cloud
-x.Travis
+x.Docker-Cloud.md
+x.Travis.md
 
 
-6.Development
+6.Development.md
 
 0.Development.md
 x.Code-formating.md
@@ -127,7 +127,7 @@ x.Issue-Creation-Strategy.md
 x.Risk-Acceptance-Strategy.md
 
 
-7.Testing
+7.Testing.md
 
 0.Testing.md
 x.5000pc-code-coverage.md
@@ -150,10 +150,10 @@ x.Run-tests-on-all-commits-of-all-branches.md
 x.Security-vulns-are-features.md
 x.WebStorm-setup.md
 x.Write-tests-for-all-bugs.md
-x.Controlling-dependencies
+x.Controlling-dependencies.md
 
 
-8.Security-tests
+8.Security-tests.md
 
 0.Security-tests.md
 x.A1-injection.md
@@ -178,7 +178,7 @@ x.Pollution-not-technical-debt.md
 x.Vulnerabilities-by-design.md
 
 
-9.GitHub
+9.GitHub.md
 
 0.GitHub.md
 x.Commits.md
@@ -196,7 +196,7 @@ x.Webhooks.md
 x.Wiki.md
 
 
-9.z.Future
+9.z.Future.md
 
 0.Future.md
 x.SAST-Analysis.md
