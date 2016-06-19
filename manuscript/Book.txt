@@ -1,14 +1,23 @@
-{frontmatter}
 
+--------------------------
 0.Frontmatter.md
+--------------------------
+
+
 1.Leanpub-book-originally-based-on-Blog-posts.md
+
+
+
 2.Change-log.md
+
+
+
 4.AngularJS-resources.md
-{mainmatter}
+
 
 
 --------------------------
-0.Part-I.md
+1.Part-I.md
 --------------------------
 
 
@@ -201,8 +210,9 @@ x.WebStorm-setup.md
 x.Write-tests-for-all-bugs.md
 x.Controlling-dependencies
 
+
 --------------------------
-0.Part-II.md
+2.Part-II.md
 --------------------------
 
 
