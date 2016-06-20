@@ -162,6 +162,7 @@ x.A11-denial-of-service.md
 x.A2-broken-authentication.md
 x.A3-cross-site-scripting.md
 x.Accepting-risk.md
+x.Answer-security-questions-with-tests.md
 x.Attack-surface-changes-breaks-tests.md
 x.Create-tools-to-Brute-Force-App.md
 x.Deadlines-create-Polution.md
@@ -171,6 +172,7 @@ x.No-security-by-obscurity.md
 x.OWASP-top-10.md
 x.Other-vulns-that-need-tests.md
 x.Pattern-dont-care-about-security.md
+x.Pattern-dont-use-html-method.md
 x.Pattern-dont-use-jquery.md
 x.Pattern-dont-use-strings.md
 x.Pattern-validate-all-input.md
