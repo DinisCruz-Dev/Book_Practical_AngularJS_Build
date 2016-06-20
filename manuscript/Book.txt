@@ -178,6 +178,7 @@ x.Pattern-dont-use-strings.md
 x.Pattern-validate-all-input.md
 x.Pollution-not-technical-debt.md
 x.Vulnerabilities-by-design.md
+x.pattern-dont-use-server-side-templates.md
 x.Pattern-known-attack-surface.md
 
 
