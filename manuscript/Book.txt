@@ -93,6 +93,7 @@ Git-Branches.md
 Git-Commits.md
 Git-SourceTree.md
 Git-submodules.md
+Git-tags.md
 GitHub.md
 Gulp.md
 Html-Generation.md
